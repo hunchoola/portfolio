@@ -12,6 +12,18 @@ body {
   line-height: 1.6;
 }
 
+.video {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+}
+
+.btn {
+  border: solid #e4f9f5;
+  background-color: rgb(231, 231, 113);
+  width: 150px;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
